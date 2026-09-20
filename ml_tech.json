@@ -1,0 +1,26 @@
+{
+  "playlist_url": "https://www.youtube.com/playlist?list=PLyzTA8cetPdHtlGw1X8Kt7Ea4bd27ApR7",
+  "technology_count": 4,
+  "technologies": [
+    {
+      "technology": "OpenHands",
+      "repository": "https://github.com/All-Hands-AI/OpenHands",
+      "main_functions": "Open-source AI software engineering agent that writes, runs and fixes code autonomously"
+    },
+    {
+      "technology": "Gemini CLI",
+      "repository": "https://github.com/google-gemini/gemini-cli",
+      "main_functions": "Google's open-source command-line AI coding assistant built on Gemini models"
+    },
+    {
+      "technology": "OpenAI Codex",
+      "repository": "https://github.com/openai/codex",
+      "main_functions": "OpenAI's open-source command-line coding agent powered by its reasoning models"
+    },
+    {
+      "technology": "Qwen3-Coder",
+      "repository": "https://github.com/QwenLM/Qwen3-Coder",
+      "main_functions": "Alibaba's open-weight agentic coding model, with its finetuning and evaluation code"
+    }
+  ]
+}
